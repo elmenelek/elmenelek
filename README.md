@@ -35,12 +35,6 @@ I sit somewhere between code and design. I don't just want software to work, I w
 
 Most of these have live demos and repos linked from my [portfolio site](https://elmenelek.xyz) if you want to poke around.
 
-## Get in touch
-
-* 📧 elmenelek@gmail.com
-* 🐙 [github.com/elmenelek](https://github.com/elmenelek)
-* 📸 [instagram.com/elko\_\_p](https://instagram.com/elko__p)
-* Or just use the contact form on [elmenelek.xyz](https://elmenelek.xyz)
 
 Feel free to reach out if you want to collaborate on something or just talk shop.
 
