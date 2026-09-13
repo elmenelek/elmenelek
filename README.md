@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, I'm Elko 👋
 
-<!--
-**elmenelek/elmenelek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer \& designer based in Bosnia \& Herzegovina. I like building things that are clean, fast, and don't waste people's time, whether that's a desktop app, a web app, or just a logo that actually looks right.
 
-Here are some ideas to get you started:
+I've been doing this for 4+ years now and have somewhere north of 50 projects shipped, ranging from tiny utilities I built for myself to full apps and design work for clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 Based in Bosnia \& Herzegovina
+* 💼 Currently open for freelance work
+* 🌐 Portfolio: [elmenelek.xyz](https://elmenelek.xyz)
+* 🗣️ English \& Bosnian
+
+## What I do
+
+I sit somewhere between code and design. I don't just want software to work, I want it to feel right too. That covers:
+
+* Desktop applications
+* Web applications
+* Android development
+* UI/UX design
+* Graphic \& logo design
+* Visual identity work
+
+## Some things I've built
+
+* [**AnimeTrack**](https://github.com/elmenelek): a browser-based anime tracker that runs entirely on localStorage, no backend needed
+* **BetterSpotify**: a tweaked/enhanced Spotify client
+* **ProxyHunter**: a GUI tool for finding and testing proxies
+* **Resizer**: a bulk image resizing utility for when you have 500 images and no patience
+* **Narcolepsy**: a power settings manager for Windows
+* **QR Generator**: does exactly what it sounds like
+* **VSA**: a Visual Studio activation tool
+* **Sims 4 DLC Unlocker**: a desktop gaming utility to manage DLC's
+* **XRP Live Price Tracker**: real-time crypto price monitoring
+* **Graphic Design Showcase**: a gallery of logo and UI concept work
+
+Most of these have live demos and repos linked from my [portfolio site](https://elmenelek.xyz) if you want to poke around.
+
+## Get in touch
+
+* 📧 elmenelek@gmail.com
+* 🐙 [github.com/elmenelek](https://github.com/elmenelek)
+* 📸 [instagram.com/elko\_\_p](https://instagram.com/elko__p)
+* Or just use the contact form on [elmenelek.xyz](https://elmenelek.xyz)
+
+Feel free to reach out if you want to collaborate on something or just talk shop.
+
